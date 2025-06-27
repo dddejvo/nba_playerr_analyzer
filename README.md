@@ -13,14 +13,17 @@ This project provides tools for scraping, processing, analyzing, and visualizing
 ---
 
 ##  Project structure
+```plaintext
 nba_player_analyzer/
-  ├── data/ # Stores CSV data, models, plots, reports
-  ├── scraper.py # Script for scraping and cleaning NBA data
-  ├── ml_model.py # Module for training and evaluating ML models
-  ├── viz.py # Visualization functions
-  ├── generate_report.py # Generates PDF report from plots
-  ├── pipeline.py # Main pipeline combining all components
-  └── requirements.txt # Required Python packages
+ ├── data/                  # Stores CSV data, models, plots, reports
+ ├── scraper.py             # Script for scraping and cleaning NBA data
+ ├── ml_model.py            # Module for training and evaluating ML models
+ ├── viz.py                 # Visualization functions
+ ├── generate_report.py      # Generates PDF report from plots
+ ├── pipeline.py             # Main pipeline combining all components
+ └── requirements.txt        # Required Python packages
+```
+
 
   
 ---
