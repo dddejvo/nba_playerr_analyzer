@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtuálne prostredie
+venv/
+
+# Výstupné súbory
+*.png
+*.pdf
+
+# IDE a editor súbory (voliteľné)
+.vscode/
+.idea/
+
+# Systémové súbory
+.DS_Store
+Thumbs.db
