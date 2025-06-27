@@ -31,3 +31,8 @@ nba_player_analyzer/
 Run the scraper to download and clean data for multiple seasons:
 ```bash
 python scraper.py
+``` 
+Run the pipeline to train models, generate visualizations, and create a PDF report:
+```bash
+python pipeline.py
+```
