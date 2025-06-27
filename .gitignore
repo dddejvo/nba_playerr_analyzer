@@ -1,18 +1,16 @@
+# Data
+data/*.csv
+data/*.pkl
+data/*.png
+data/*.pdf
+data/*.log
+data/plots/
+
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
 
-# Virtuálne prostredie
+# Venv
 venv/
-
-# Výstupné súbory
-*.png
-*.pdf
-
-# IDE a editor súbory (voliteľné)
-.vscode/
-.idea/
-
-# Systémové súbory
-.DS_Store
-Thumbs.db
+.env/
